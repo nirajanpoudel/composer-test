@@ -14,6 +14,7 @@
         }
 	},
     "license": "MIT",
+	"minimum-stability": "1.0",
     "authors": [
         {
             "name": "nirajan",
