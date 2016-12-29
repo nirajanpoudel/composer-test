@@ -1,0 +1,22 @@
+{
+    "name": "nitv/my_frame",
+    "require": {
+        "symfony/form": "^3.2",
+        "symfony/dependency-injection": "^3.2"
+    },
+	"require-dev": {
+		"fzaninotto/faker": "~1.4"
+	},
+	"autoload": {
+		"psr-4": {
+            "Mine\\": "src/"
+        }
+	},
+    "license": "mit",
+    "authors": [
+        {
+            "name": "nirajan",
+            "email": "nir.pou@gmail.com"
+        }
+    ]
+}
