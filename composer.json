@@ -2,7 +2,7 @@
     "name": "nitv/my_frame",
 	"type": "project",
     "require": {
-        "symfony/form": "dev",
+        "symfony/form":"^3.2",
     },
 	"autoload": {
 		"psr-4": {
@@ -10,7 +10,7 @@
         }
 	},
     "license": "MIT",
-	"minimum-stability": "alpha",
+	"minimum-stability":"alpha",
     "authors": [
         {
             "name": "nirajan",
