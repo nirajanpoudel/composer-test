@@ -2,12 +2,9 @@
     "name": "nitv/my_frame",
 	"type": "project",
     "require": {
-        "symfony/form": "^3.2",
-       "laravel/framework": "5.2.*"
+        "symfony/form": "dev",
     },
-	"require-dev": {
-		"fzaninotto/faker": "~1.4"
-	},
+	,
 	"autoload": {
 		"psr-4": {
             "Mine\\": "src/"
