@@ -1,10 +1,10 @@
 {
     "name": "nitv/my_frame",
+	"type": "project",
     "require": {
         "symfony/form": "^3.2",
         "symfony/dependency-injection": "^3.2"
     },
-	 "minimum-stability": "dev",
 	"require-dev": {
 		"fzaninotto/faker": "~1.4"
 	},
@@ -13,7 +13,7 @@
             "Mine\\": "src/"
         }
 	},
-    "license": "mit",
+    "license": "MIT",
     "authors": [
         {
             "name": "nirajan",
